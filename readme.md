@@ -47,12 +47,12 @@ Permite consolidar y analizar el catálogo de Netflix actualizado, y dejar un so
 
 ## 📂 Estructura esperada del repositorio
 
-📁 DatasetViejo/
-├── netflix_movies_detailed_up_to_2025.csv
-├── netflix_tv_shows_detailed_up_to_2025.csv
-└── netflix_dataset_2025.csv (generado)
-📁 Notebooks/
-├── Netflix_Recommendation_System_Documented_Spanish.ipynb
+📁 DatasetViejo/ <br>
+├── netflix_movies_detailed_up_to_2025.csv<br>
+├── netflix_tv_shows_detailed_up_to_2025.csv<br>
+└── netflix_dataset_2025.csv (generado)<br>
+📁 Notebooks/<br>
+├── Netflix_Recommendation_System_Documented_Spanish.ipynb<br>
 └── Netflix_Analisis_Completo_2025.ipynb
 
 ---
