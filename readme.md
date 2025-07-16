@@ -52,7 +52,7 @@ Permite consolidar y analizar el catálogo de Netflix actualizado, y dejar un so
 ├── netflix_tv_shows_detailed_up_to_2025.csv<br>
 └── netflix_dataset_2025.csv (generado)<br>
 📁 Notebooks/<br>
-├── Netflix_Recommendation_System_Documented_Spanish.ipynb<br>
+├── Netflix_Analisis_Recomendador_Completo.ipynb<br>
 └── Netflix_Analisis_Completo_2025.ipynb
 
 📁 DatasetViejo/ <br>
