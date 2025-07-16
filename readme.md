@@ -58,7 +58,6 @@ Permite consolidar y analizar el catálogo de Netflix actualizado, y dejar un so
 ├── IMDb ratings.csv<br>
 └── netflix_dataset.csv<br>
 📁 Notebooks/<br>
-<br>
 └── Netflix_Practica09
 
 ---
