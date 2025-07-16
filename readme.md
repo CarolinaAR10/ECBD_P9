@@ -52,9 +52,7 @@ Permite consolidar y analizar el catálogo de Netflix actualizado, y dejar un so
 ├── netflix_tv_shows_detailed_up_to_2025.csv<br>
 └── netflix_dataset_2025.csv (generado)<br>
 📁 Notebooks/<br>
-├── Netflix_Analisis_Recomendador_Completo.ipynb<br>
-└── Netflix_Analisis_Completo_2025.ipynb
-
+└── Netflix_Practica09_parte02.ipynb (Se tiene el porceso de fusión de los 2 csv)<br>
 📁 DatasetViejo/ <br>
 ├── IMDb movies.csv<br>
 ├── IMDb ratings.csv<br>
@@ -62,14 +60,6 @@ Permite consolidar y analizar el catálogo de Netflix actualizado, y dejar un so
 📁 Notebooks/<br>
 <br>
 └── Netflix_Practica09
-
----
-
-## 🚀 Cómo usar
-
-1. Coloca los CSV originales en la carpeta correspondiente.  
-2. Abre **Netflix_Analisis_Completo_2025.ipynb** y ejecútalo para fusionar los CSV y generar el dataset combinado.  
-3. Abre **Netflix_Recommendation_System_Documented_Spanish.ipynb** para probar el sistema de recomendación usando el CSV combinado (`netflix_dataset_2025.csv`).  
 
 ---
 
